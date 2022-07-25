@@ -28,10 +28,10 @@ a{
     left: 0;
     width: 0;
     height: 100%;
-    border-right: 4px solid #17FEFF;
+    border-right: 4px solid #ee1808;
     overflow: hidden;
-    color: #17FEFF;
-    animation: load91371 2s linear infinite;
+    color: #ec280a;
+    animation: load91371 5s linear infinite;
    }
    
    @keyframes load91371 {
@@ -44,11 +44,11 @@ a{
     }
    
     11%,21%,31%,41%,51%,61%,71%,81%,91% {
-     border-right-color: #17FEFF;
+     border-right-color: #f00f0c;
     }
    
     60%, 80% {
-     width: 50%;
+     width: 100%;
     }
    }
 
