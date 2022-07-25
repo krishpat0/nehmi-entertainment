@@ -208,4 +208,7 @@ p {
    a{
     text-decoration: none;
    }
+   *{
+    font-family: 'Roboto Slab', serif;
+   }
    
